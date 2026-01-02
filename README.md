@@ -9,4 +9,9 @@ SwiftUI iOS app for species-based fishing recommendations with a clean dark-mode
 - Built-in chat-style fishing assistant (mock/offline)
 
 ## Screenshots
-Add screenshots here once uploaded.
+
+<p align="center">
+  <img src="screenshots/home.png" width="250" />
+  <img src="screenshots/recommendation.png" width="250" />
+</p>
+
