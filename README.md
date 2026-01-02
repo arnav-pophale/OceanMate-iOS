@@ -11,6 +11,7 @@ SwiftUI iOS app for species-based fishing recommendations with a clean dark-mode
 ## Screenshots
 
 <p align="center">
-  <img src="Screenshots/home.png" width="250" />
-  <img src="Screenshots/recommendation.png" width="250" />
+  <img src="OceanMate/Screenshots/home.png" width="250" />
+  <img src="OceanMate/Screenshots/recommendation.png" width="250" />
 </p>
+
